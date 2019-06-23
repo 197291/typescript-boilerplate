@@ -1,6 +1,6 @@
 # typescript-boilerplate
 
-Template based on CRA with typescript
+Template (with prettier) based on CRA with typescript.
 
 ## Libraries
 
