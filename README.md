@@ -1,4 +1,4 @@
-# Typescript-boilerplate
+# TypeScript-boilerplate
 
 Template (with prettier) based on CRA with typescript.
 
