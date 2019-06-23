@@ -15,3 +15,4 @@ Template (with prettier) based on CRA with typescript.
 - redux-thunk 2.3.0
 - reselect 4.0.0
 - typescript 3.5.2
+- material-ui/core 4.1.2
